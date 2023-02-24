@@ -1,0 +1,11 @@
+/about https://hub.39.gy/about 301
+/members https://hub.39.gy/members 301
+/members/ress https://hub.39.gy/members/ress 301
+
+# 内部
+/fumi https://fumi.39.gy 302
+/l https://link.39.gy 302
+/link https://link.39.gy 302
+
+# 外部
+/mail https://webmail.gandi.net/roundcube/ 302
