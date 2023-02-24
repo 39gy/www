@@ -1,0 +1,12 @@
+ncoding: utf-8
+lang: ja
+timezone: Asia/Tokyo
+
+plugins: ["jekyll-remote-theme", "jekyll-feed", "jekyll-sitemap"]
+remote_theme: ress997/jekyll-lime
+include: ["_redirects"]
+
+url: https://39.gy
+title: 39 Circle
+#description:
+copyright: 39 Circle
